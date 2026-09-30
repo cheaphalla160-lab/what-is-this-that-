@@ -1,0 +1,6 @@
+{
+  "name": "Magic English: This, That, These & Those",
+  "description": "专为小学英语教师与孩子们设计的趣味互动学习游戏与备课教案平台，精美生动掌握 What's this/that/these/those 句型，包含轻快BGM与发音朗读。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
